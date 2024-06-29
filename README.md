@@ -67,7 +67,7 @@
 
        
 ## 5. 퍼블리싱 가이드 라인    
-****[퍼블리싱 가이드라인 보러가기](url)****
+****[퍼블리싱 가이드라인 보러가기](https://drive.google.com/file/d/12SmzhmHL9iDBwW5Nza0HVd9f5j042hKl/view?usp=sharing)****
 
 
              
